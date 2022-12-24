@@ -1,0 +1,23 @@
+
+body{
+  background-color: #FFE5F1;
+}
+
+hr{
+  background-color: white;
+
+  height:0px; <!-- to make border style box dotted as single line-->
+
+  border-top-style: dotted;
+  border-color: greey;
+  border-width: 5px;
+    width:5%;
+  <!-- border-style: dotted;
+  border-top-style: dotted;-->
+}
+h1{
+  color: #FF597B;
+}
+h3{
+  color: #FF597B;
+}
